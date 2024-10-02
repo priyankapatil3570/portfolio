@@ -1,0 +1,24 @@
+body {
+  background-color: burlywood;
+}
+img {
+  width: 300px;
+  height: 300px;
+}
+.flex {
+  display: flex;
+  gap: 15%;
+  align-items: flex-start;
+}
+.flex-vertical {
+  display: flex;
+  flex-direction: column;
+}
+.desc {
+  background-color: aliceblue;
+  border-radius: 20px;
+}
+.flex {
+  background-color: beige;
+  border-radius: 20px;
+}
